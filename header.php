@@ -375,6 +375,18 @@
         color: #ffffff;
       }
 
+
+      .top-rated-hotel{
+        text-align: center;
+        color:#ffffff;
+        margin:20px 40% 0 40%;
+        padding:5px 15px;
+        border-radius:10px 10px 0 0;
+        background: #5C33FF;
+        }
+
+      
+
       /* Adjustments for mobile devices */
       @media screen and (max-width: 768px) {
         .logo-site-identity {
